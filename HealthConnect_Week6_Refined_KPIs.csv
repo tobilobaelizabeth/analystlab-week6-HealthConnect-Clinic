@@ -1,0 +1,9 @@
+KPI,Status,Definition,Value,Why it matters
+Appointment No-Show Rate,Week 5 - validated,No-shows / all scheduled appointments,48.46%,Headline measure of the problem
+Attendance Rate,Week 5 - validated,Attended / all scheduled appointments,46.28%,Complement of the headline measure
+Cancellation Rate,Week 5 - validated,Cancelled / all scheduled appointments,5.26%,Cancellations release a slot; no-shows do not
+Reminder Coverage Rate,Week 5 - validated,Appointments with a reminder / all appointments,72.68%,"Measures the clinic's own process, not patient behaviour"
+Unrecoverable Slot Loss Rate,Week 6 - NEW,"No-shows / (attended + no-shows), i.e. excluding cancellations",51.15%,Isolates the slots lost with no chance of reallocation - the true operational cost
+Advance-Notice Share of Non-Attendance,Week 6 - NEW,Cancellations / (cancellations + no-shows),9.79%,Only 9.79%% of non-attendance currently arrives with notice. Converting no-shows into cancellations is a valid intervention outcome in its own right
+High-Risk Reminder Coverage Gap,Week 6 - NEW,Appointments booked 31+ days ahead with NO reminder sent,660 appointments (13.2% of all),Directly actionable: the clinic's weakest coverage sits on its highest-risk appointments
+Repeat No-Show Patient Share,Week 6 - NEW,Appointments by patients with 2+ previous no-shows,10.62%,Defines the size of the targeted-outreach caseload
